@@ -1,4 +1,4 @@
-# Olá, eu sou Bernardo P. S. Souza! 👋
+# | Bernardo P. S. Souza! 👋
 - 1° semestre de Ciência da Computação
 - Python, HTML, CSS e JavaScript
 
