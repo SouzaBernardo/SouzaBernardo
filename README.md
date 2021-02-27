@@ -1,4 +1,5 @@
 # Olá, eu sou Bernardo P. S. Souza! 👋
+- 1° semestre de Ciência da Computação
 
 <!--
 **BEp0/BEp0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
