@@ -1,5 +1,5 @@
 # | Bernardo P. S. Souza | ✌️
-- 1° semestre de Ciência da Computação <br>
+> 1° semestre de Ciência da Computação <br>
 ### Aqui você encontra:
 <img src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?&style=for-the-badge&color=" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
