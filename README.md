@@ -2,10 +2,10 @@
 ## Sobre:
 - 1° semestre de Ciência da Computação <br>
 ### Aqui você encontra:
-<img src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?&style=for-the-badge&color=" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?&style=for-the-badge&color=&style=border-radios=2px" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26&style=border-radios=2px" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE&style=border-radios=2px" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E&style=border-radios=2px" />&nbsp;&nbsp;
 <!--
 **BEp0/BEp0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
