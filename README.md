@@ -1,9 +1,10 @@
 # | E ae! | ✌️
 ## Sobre mim:
-- Cursando o 1° semestre de Ciência da Computação <br>
-- Interesse em Python e JavaScript...
+- Atualmente no 1° semestre de Ciência da Computação <br>
+- Estou gostando muito de aprender sobre computação, realmente me apaixonando hehe
+- Interesse em Python e JavaScript, mas semrpe aberto a aprender qualquer coisa!
 ## Sobre meu GitHub:
-Atualmente estou usando meu GitHub como repositório para minhas atividades da faculdade e desafios pessoais, e de quebra compartilho um pouco do que aprendo aqui
+Atualmente estou usando meu GitHub como repositório para minhas atividades da faculdade e desafios pessoais, e de quebra compartilho um pouco do que aprendo aqui.
 ### Aqui você encontra:
 <img src="https://img.shields.io/badge/C%20-%23F7DF1E.svg?&style=for-the-badge&color=purple&style=border-radios=2px" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?&style=for-the-badge&color=blue&style=border-radios=2px" />&nbsp;&nbsp;
