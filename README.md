@@ -9,7 +9,9 @@ Atualmente estou usando meu GitHub como repositório para minhas atividades da f
 <p>
 <a href="https://github.com/BEp0/Algoritmos-em-C" target="_self"><img src="https://img.shields.io/badge/C%20-%23F7DF1E.svg?&style=for-the-badge&color=purple&style=border-radios=2px" /></a>
 <a href="https://github.com/BEp0/Estudos_de_Python" target="_self"><img src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?&style=for-the-badge&color=blue&style=border-radios=2px" /></a>
-<a href="https://github.com/BEp0/Estudos_Web" target="_self"><img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26&style=border-radios=2px"/> <img src="https://img.shields.io/badge/CSS%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE&style=border-radios=2px"/> <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E&style=border-radios=2px" /></a>
+<a href="https://github.com/BEp0/Estudos_Web" target="_self"><img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26&style=border-radios=2px"/></a>
+<a href="https://github.com/BEp0/Estudos_Web" target="_self"><img src="https://img.shields.io/badge/CSS%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE&style=border-radios=2px"/></a>
+<a href="https://github.com/BEp0/Estudos_Web" target="_self"><img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E&style=border-radios=2px"/></a>
 </p>
 
 <!--
