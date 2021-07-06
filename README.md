@@ -1,6 +1,6 @@
 # | E ae! | ✌️
 ## Sobre mim:
-- Atualmente no 1° semestre de Ciência da Computação <br>
+- Atualmente no 2° semestre de Ciência da Computação <br>
 - Estou gostando muito de aprender sobre computação
 - Estou estudando Python e C na faculdade e um pouco de JavaScript nas horas vagas, mas sempre aberto a aprender qualquer coisa!
 ## Sobre meu GitHub:
