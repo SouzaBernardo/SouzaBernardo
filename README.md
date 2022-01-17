@@ -8,9 +8,12 @@
 
 ## My GitHub:
 Here I public some repos with my colleges activates and personal challenges. With this I can share the things I learn. 
+<div style="display: inline_blocks">
+<img aling="center" heigth="80" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-
-How to reach me: linkden
+<img aling="center" heigth="70" width="90" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+</div>
+  How to reach me: linkden
 <!--
 ### Aqui você encontra:
 <p>
