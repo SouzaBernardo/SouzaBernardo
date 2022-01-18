@@ -12,8 +12,10 @@ Here I public some repos with my colleges activates and personal challenges. Wit
 <img aling="center" heigth="80" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img aling="center" heigth="60" width="80" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
-
+<!--
 ![Snake animation](https://github.com/BEp0/BEp0/blob/output/github-contribution-grid-snake.svg)
+-->
+
 
 <!--
 ### Aqui você encontra:
