@@ -2,7 +2,6 @@
 ## About me:
 - I'm currently in the fifth semester of the computer science course at <a href="https://www.feevale.br/graduacao/ciencia-da-computacao/estrutura-curricular">Feevale University</a>.
 - I'm really enjoying to learn more about computer science.
-- I'm currently looking for an intership. 
 - My interest in this area began at 2017. At that time I was starting the high school and I met the python. Up to now, I learned about Python, C JavaScript and anothers programming languages.
 
 ## My GitHub:
