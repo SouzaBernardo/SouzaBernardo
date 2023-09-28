@@ -3,7 +3,7 @@
 ## About me: 😁
 
 - I'm 21 years old
-- Studying Computer Science
+- Computer Science student
 - Working as a Backend Developer with Java and SpringBoot Framework
 - Interests:
   - Microservices
