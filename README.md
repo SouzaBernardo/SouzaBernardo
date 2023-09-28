@@ -30,5 +30,5 @@
   <img heigth="60" width="80" src="https://img.shields.io/badge/Docker-14354C?style=for-the-badge&logo=docker&logoColor=white">   
 </div>
 
-- [Docker Compose](https://github.com/BEp0/docker-composes): Here are some Docker Composes that you can use to run your containers for testing, studying, or whatever you prefer.
 - [Product Service](https://github.com/BEp0/product-service): A service for receiving messages via Kafka to generate products and save them in the database
+- [Docker Compose](https://github.com/BEp0/docker-composes): Here are some Docker Composes that you can use to run your containers for testing, studying, or whatever you prefer.
