@@ -5,7 +5,6 @@
 - I'm 21 years old
 - Studying Computer Science
 - Working as a Backend Developer with Java and SpringBoot Framework
-  
 - Interests:
   - Microservices
   - Clean Architecture
