@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="300" height="300" align="right"/>  
 
-## About me: 😁
+# About me: 😁
 
 - I'm 21 years old
 - Computer Science student
