@@ -14,7 +14,6 @@
 - How I like to enjoy my time:
   - Watching anime
   - Drawing
-  - 3D modeling
   - Games
 
 ## What am I learning now?
