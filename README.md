@@ -5,11 +5,12 @@
 - I'm 21 years old
 - Computer Science student
 - Working as a Backend Developer with Java and SpringBoot Framework
+<!--
 - Interests:
   - Microservices
   - Clean Architecture
   - Relational and Non-relational Databases
-  - Kotlin
+  - Kotlin-->
 - How I like to enjoy my time:
   - Watching anime
   - Drawing
