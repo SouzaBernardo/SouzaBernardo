@@ -16,16 +16,14 @@
   - Drawing
   - Games
 
-## What am I learning now?
+## What am I doing now?
 - [Product Service](https://github.com/BEp0/product-service): A service for receiving messages via Kafka to generate products and save them in the database
 - [Advent Of Code](https://github.com/BEp0/AoC-2023)
 ## Some projects:
 
 <div style="display: inline_block;">
   <img heigth="50" width="50" src="https://img.shields.io/badge/Java-FE6E00?style=for-the-badge&logo=java&logoColor=black">
-  <!--
   <img heigth="60" width="80" src="https://img.shields.io/badge/Kotlin-410287?style=for-the-badge&logo=kotlin&logoColor=white">
-  -->
   <img heigth="60" width="80" src="https://img.shields.io/badge/Docker-14354C?style=for-the-badge&logo=docker&logoColor=white">   
 </div>
 
