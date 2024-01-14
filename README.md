@@ -18,5 +18,5 @@
 
 - [Product Service](https://github.com/SouzaBernardo/product-service): A service for receiving messages via Kafka to generate products and save them in the database
 - [Docker Compose](https://github.com/SouzaBernardo/docker-composes): Here are some Docker Composes that you can use to run your containers for testing, studying, or whatever you prefer.
-- [Advent Of Code](https://github.com/SouzaBernardo/AoC-2023): Annual holiday-themed programming challenges
+- [Advent Of Code](https://github.com/SouzaBernardo/advent-of-code): Annual holiday-themed programming challenges
 - [Reflection in Java](https://github.com/SouzaBernardo/java-reflection): Simulates an API with product controller listing the products in XML format, using Reflection in Java.
