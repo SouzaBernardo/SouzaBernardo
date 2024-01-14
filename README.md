@@ -5,10 +5,11 @@
 - Computer Science
 - Backend Developer
 
-## What am I doing now? (*￣3￣)╭
+## What am I doing now? 
 - [Product Service](https://github.com/BEp0/product-service): A service for receiving messages via Kafka to generate products and save them in the database
 
-## Some projects: (～￣▽￣)～
+## Some projects
+(～￣▽￣)～
 <div style="display: inline_block;">
   <img heigth="50" width="50" src="https://img.shields.io/badge/Java-FE6E00?style=for-the-badge&logo=java&logoColor=black">
   <img heigth="60" width="80" src="https://img.shields.io/badge/Kotlin-410287?style=for-the-badge&logo=kotlin&logoColor=white">
