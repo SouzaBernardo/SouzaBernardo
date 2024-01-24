@@ -11,9 +11,11 @@
 ## Some projects
 (～￣▽￣)～
 <div style="display: inline_block;">
-  <img heigth="50" width="50" src="https://img.shields.io/badge/Java-FE6E00?style=for-the-badge&logo=java&logoColor=black">
+  <img heigth="50" width="70" src="https://img.shields.io/badge/Java-FE6E00?style=for-the-badge&logo=openjdk&logoColor=black">
   <img heigth="60" width="80" src="https://img.shields.io/badge/Kotlin-410287?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img heigth="60" width="80" src="https://img.shields.io/badge/Docker-14354C?style=for-the-badge&logo=docker&logoColor=white">   
+  <img heigth="60" width="80" src="https://img.shields.io/badge/Docker-14354C?style=for-the-badge&logo=docker&logoColor=white">
+  <img heigth="60" width="80" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  <img heigth="60" width="80" src="https://img.shields.io/badge/golang-28EBEE?style=for-the-badge&logo=go&logoColor=white">
 </div>
 
 - [Product Service](https://github.com/SouzaBernardo/product-service): A service for receiving messages via Kafka to generate products and save them in the database
