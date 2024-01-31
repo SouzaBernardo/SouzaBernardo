@@ -6,7 +6,8 @@
 - Backend Developer
 
 ## What am I doing now? 
-- [Product Service](https://github.com/BEp0/product-service): A service for receiving messages via Kafka to generate products and save them in the database
+- [Kafka Ecommerce](https://github.com/SouzaBernardo/kafka-ecommerce): A repo to simulate new orders using kafka producers and consumers
+<!--- [Product Service](https://github.com/BEp0/product-service): A service for receiving messages via Kafka to generate products and save them in the database-->
 
 ## Some projects
 (～￣▽￣)～
