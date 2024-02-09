@@ -2,8 +2,8 @@
 
 # About me (●'◡'●)
 
-- Computer Science
 - Backend Developer
+- Computer Science
 
 ## What am I doing now? 
 <!--- [Product Service](https://github.com/BEp0/product-service): A service for receiving messages via Kafka to generate products and save them in the database-->
