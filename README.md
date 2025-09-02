@@ -5,7 +5,7 @@
 - Backend Developer
 - Computer Science
 
-## What am I doing now? 
+<!--## What am I doing now? -->
 <!-- [Shopping List](https://github.com/SouzaBernardo/shopping-list): An app to create shopping lists-->
 <!--- [Product Service](https://github.com/BEp0/product-service): A service for receiving messages via Kafka to generate products and save them in the database-->
 
