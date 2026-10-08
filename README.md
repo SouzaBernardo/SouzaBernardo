@@ -20,6 +20,7 @@
 </div>
 
 <!--- [Product Service](https://github.com/SouzaBernardo/product-service): A service for receiving messages via Kafka to generate products and save them in the database-->
+- [University Final Work]([https://github.com/SouzaBernardo/docker-composes](https://github.com/SouzaBernardo/quality_at_k): This repo has my final work, where I propose a new metric to evaluate AI code output.
 - [Docker Compose](https://github.com/SouzaBernardo/docker-composes): Here are some Docker Composes that you can use to run your containers for testing, studying, or whatever you prefer.
 - [Reflection in Java](https://github.com/SouzaBernardo/java-reflection): Simulates an API with product controller listing the products in XML format, using Reflection in Java.
 - [Kafka Ecommerce](https://github.com/SouzaBernardo/kafka-ecommerce): A repo to create new orders using kafka producers and consumers
